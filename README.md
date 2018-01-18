@@ -1,2 +1,2 @@
 # SIMPLE RAMDA
-Simple and ramda functions
+Simple ramda functions
