@@ -1,6 +1,6 @@
 {
   "name": "simple-ramda",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "main": "dist/index.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/heyderpd/simple-ramda.git"
   },
-  "keywords": ["simple", "ramda", "function"],
+  "keywords": ["simple", "ramda", "babel", "function"],
   "author": "<heyderpd@gmail.com> (http://heyderpd.github.io)",
   "license": "MIT",
   "bugs": {
